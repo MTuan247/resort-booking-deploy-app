@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktravel_web_app"]=self["webpackChunktravel_web_app"]||[]).push([[566],{7566:function(n,e,t){t.r(e),t.d(e,{default:function(){return i}});var r=t(3396);const s={class:"admin"};function a(n,e,t,a,c,o){const u=(0,r.up)("router-view");return(0,r.wg)(),(0,r.iD)("div",s,[(0,r.Wm)(u,{class:"admin-content"})])}var c={name:"AdminView",components:{},setup(){const{proxy:n}=(0,r.FN)();return(0,r.wF)((()=>{console.log(n)})),{}}},o=t(89);const u=(0,o.Z)(c,[["render",a]]);var i=u}}]);
+//# sourceMappingURL=566.65004d64.js.map
